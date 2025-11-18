@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thanvith</h1>
 <h3 align="center">Passionate about AI & Machine Learning, exploring real-world problem-solving with code and creativity.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanvithmk" alt="thanvithmk" /></a> </p>
-
 - 🌱 I’m currently learning **Flask, Data science, Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Thanvithmk/Thanvithmk](https://github.com/Thanvithmk/Thanvithmk)
-
 - 📫 How to reach me **thanvithmk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
