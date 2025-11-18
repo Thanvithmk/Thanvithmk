@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanvithmk&show_icons=true&locale=en&layout=compact" alt="thanvithmk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanvithmk&show_icons=true&locale=en" alt="thanvithmk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanvithmk&" alt="thanvithmk" /></p>
