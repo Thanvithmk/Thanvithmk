@@ -32,37 +32,12 @@
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
-<h3 align="center">Programming</h3>
-<p align="center">
-Python<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
-</p>
-
----
-
-<h3 align="center">Web Development</h3>
-
-<table align="center">
-<tr>
-<td align="center">HTML<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55"/></td>
-<td align="center">CSS<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55"/></td>
-<td align="center">JavaScript<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/></td>
-<td align="center">Bootstrap<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="55"/></td>
-<td align="center">React<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55"/></td>
-<td align="center">NodeJS<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55"/></td>
-<td align="center">Express<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55"/></td>
-</tr>
-</table>
-
----
-<h2 align="center">⚙️ Tech Stack</h2>
-
 <table align="center">
 <tr>
 
 <td align="center" width="300">
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
 C &nbsp; Python &nbsp; JavaScript
 <br><br>
@@ -75,7 +50,7 @@ C &nbsp; Python &nbsp; JavaScript
 
 <td align="center" width="300">
 
-### 🌐 Web Development
+### Web Development
 <p>
 HTML &nbsp; CSS &nbsp; React &nbsp; Node &nbsp; Express &nbsp; Bootstrap
 <br><br>
@@ -95,7 +70,7 @@ HTML &nbsp; CSS &nbsp; React &nbsp; Node &nbsp; Express &nbsp; Bootstrap
 
 <td align="center">
 
-### 🗄️ Databases
+### Databases
 <p>
 MongoDB &nbsp; MySQL
 <br><br>
@@ -107,7 +82,7 @@ MongoDB &nbsp; MySQL
 
 <td align="center">
 
-### 🤖 AI / Data Science
+### AI / Data Science
 <p>
 Pandas &nbsp; Scikit-Learn
 <br><br>
