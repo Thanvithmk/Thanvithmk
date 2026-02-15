@@ -29,74 +29,74 @@
 </table>
 
 ---
-
 <h2 align="center">⚙️ Tech Stack</h2>
-
-<div align="center">
 
 <table width="100%">
 
 <tr>
-
-<td align="center" width="50%">
-
-### Programming Languages
-C &nbsp;&nbsp; Python &nbsp;&nbsp; JavaScript
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70"/>
-
-</td>
-
-<td align="center" width="50%">
-
-### Web Development
-HTML &nbsp; CSS &nbsp; React &nbsp; Node &nbsp; Express &nbsp; Bootstrap
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="70"/>
-
-</td>
-
+<th align="center">💻 Programming Languages</th>
+<th align="center">🌐 Web Development</th>
+<th align="center">🗄️ Databases</th>
+<th align="center">🤖 AI / Data Science</th>
 </tr>
 
 <tr>
 
 <td align="center">
 
-### Databases
-MongoDB &nbsp;&nbsp; MySQL
+C<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"><br><br>
 
-<br><br>
+Python<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"><br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70"/>
+JavaScript<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60">
 
 </td>
 
 <td align="center">
 
-### AI / Data Science
-Pandas &nbsp;&nbsp; Scikit-Learn
+HTML<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"><br><br>
 
-<br><br>
+CSS<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"><br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70"/>
+React<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60"><br><br>
+
+NodeJS<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"><br><br>
+
+Express<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60"><br><br>
+
+Bootstrap<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60">
+
+</td>
+
+<td align="center">
+
+MongoDB<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60"><br><br>
+
+MySQL<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60">
+
+</td>
+
+<td align="center">
+
+Pandas<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"><br><br>
+
+Scikit-Learn<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60">
 
 </td>
 
 </tr>
-
 </table>
 
-</div>
