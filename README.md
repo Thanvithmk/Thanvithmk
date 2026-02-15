@@ -22,7 +22,7 @@
 
 <h3>📊 LeetCode Stats</h3>
 
-<img src="https://leetcode-activity-stats.vercel.app/api?username=thanvithmk&theme=dark&months=3" />
+<img src="https://leetcard.jacoblin.cool/thanvithmk?theme=dark&font=Baloo&ext=activity" />
 
 </td>
 </tr>
