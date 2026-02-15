@@ -28,12 +28,9 @@
 
 ---
 
-<h2 align="center">📊 LeetCode Stats</h2>
+<h2 align="center">📊 LeetCode Stats (Last Month)</h2>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/thanvithmk?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/thanvithmk?theme=dark&font=Baloo&ext=contest&width=500" alt="LeetCode Stats"/>
 </p>
 
-<p align="center">
-<img src="https://leetcode.activity-graph.vercel.app/graph?username=thanvithmk&theme=react-dark" alt="LeetCode Activity Graph"/>
-</p>
