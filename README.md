@@ -34,69 +34,76 @@
 <table width="100%">
 
 <tr>
-<th align="center">💻 Programming Languages</th>
-<th align="center">🌐 Web Development</th>
-<th align="center">🗄️ Databases</th>
-<th align="center">🤖 AI / Data Science</th>
+
+<td width="50%" align="center">
+
+<h3>💻 Programming</h3>
+
+C<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="65"><br><br>
+
+Python<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65"><br><br>
+
+JavaScript<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65">
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🌐 Web Development</h3>
+
+HTML<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="65"><br><br>
+
+CSS<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="65"><br><br>
+
+React<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="65"><br><br>
+
+NodeJS<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="65"><br><br>
+
+Express<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="65"><br><br>
+
+Bootstrap<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="65">
+
+</td>
+
 </tr>
 
 <tr>
 
 <td align="center">
 
-C<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60"><br><br>
-
-Python<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"><br><br>
-
-JavaScript<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60">
-
-</td>
-
-<td align="center">
-
-HTML<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"><br><br>
-
-CSS<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"><br><br>
-
-React<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60"><br><br>
-
-NodeJS<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"><br><br>
-
-Express<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60"><br><br>
-
-Bootstrap<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60">
-
-</td>
-
-<td align="center">
+<h3>🗄️ Databases</h3>
 
 MongoDB<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="65"><br><br>
 
 MySQL<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65">
 
 </td>
 
 <td align="center">
 
+<h3>🤖 AI / Data Science</h3>
+
 Pandas<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65"><br><br>
 
 Scikit-Learn<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65">
 
 </td>
 
 </tr>
+
 </table>
+
 
