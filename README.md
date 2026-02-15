@@ -22,7 +22,7 @@
 
 <h3>📊 LeetCode Stats</h3>
 
-<img src="https://leetcard.jacoblin.cool/thanvithmk?theme=dark&font=Baloo&ext=activity" />
+<img src="https://leetcard.jacoblin.cool/thanvithmk?theme=dark&font=Baloo&ext=heatmap&width=420&height=200&radius=8" />
 
 </td>
 </tr>
