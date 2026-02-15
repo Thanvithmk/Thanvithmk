@@ -55,21 +55,67 @@ Python<br>
 </table>
 
 ---
+<h2 align="center">⚙️ Tech Stack</h2>
 
-<h3 align="center">Databases</h3>
-<p align="center">
-MongoDB &nbsp;&nbsp;&nbsp; MySQL<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/>
+<table align="center">
+<tr>
+
+<td align="center" width="300">
+
+### 💻 Programming Languages
+<p>
+C &nbsp; Python &nbsp; JavaScript
+<br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
----
+</td>
 
-<h3 align="center">AI / Data Science</h3>
-<p align="center">
-Pandas &nbsp;&nbsp;&nbsp; Scikit-Learn<br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55"/>
+<td align="center" width="300">
+
+### 🌐 Web Development
+<p>
+HTML &nbsp; CSS &nbsp; React &nbsp; Node &nbsp; Express &nbsp; Bootstrap
+<br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
+
 </p>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️ Databases
+<p>
+MongoDB &nbsp; MySQL
+<br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+</p>
+
+</td>
+
+<td align="center">
+
+### 🤖 AI / Data Science
+<p>
+Pandas &nbsp; Scikit-Learn
+<br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+</p>
+
+</td>
+
+</tr>
+</table>
