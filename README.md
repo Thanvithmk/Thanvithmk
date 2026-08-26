@@ -4,18 +4,17 @@
 <tr>
 <td width="55%">
 
-<h3>🤖 AIML enthusiast passionate about building practical AI, ML, and software solutions.</h3>
+<h3>Passionate about AI & Machine Learning, exploring real-world problem-solving with code and creativity.</h3>
 
-* 🌱 Currently exploring <b>Machine Learning, Deep Learning, NLP, Generative AI & Backend Development</b>
-* 💡 Interested in <b>AI/ML, NLP, LLMs, RAG and intelligent applications</b>
-* 💻 I enjoy turning ideas into <b>real-world projects</b>
-* 📫 Reach me at <b>[thanvithmk@gmail.com](mailto:thanvithmk@gmail.com)</b>
+* 🌱 I’m currently learning <b>Machine Learning, Deep Learning, NLP & Generative AI</b>
+* 💡 Interested in <b>AI/ML, NLP, LLMs, RAG and Backend Development</b>
+* 📫 How to reach me <b>[thanvithmk@gmail.com](mailto:thanvithmk@gmail.com)</b>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/thanvith-manjunath-k/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/thanvith-manjunath-k/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
@@ -41,33 +40,33 @@
 
 <td align="center" width="300">
 
-### 👨‍💻 Programming Languages
+<h3>👨‍💻 Programming Languages</h3>
 
 <p>
 Python &nbsp; JavaScript &nbsp; C
-<br><br>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
 </td>
 
 <td align="center" width="300">
 
-### 🤖 AI / Machine Learning
+<h3>🤖 AI / Machine Learning</h3>
 
 <p>
 Scikit-Learn &nbsp; TensorFlow &nbsp; Keras &nbsp; XGBoost
-<br><br>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xgboost/xgboost-original.svg" width="45"/>
-
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logo=xgboost&logoColor=white" />
 </p>
 
 </td>
@@ -78,29 +77,32 @@ Scikit-Learn &nbsp; TensorFlow &nbsp; Keras &nbsp; XGBoost
 
 <td align="center">
 
-### 🧠 NLP / Generative AI
+<h3>🧠 NLP / Generative AI</h3>
 
 <p>
 BERT &nbsp; Transformers &nbsp; LLMs &nbsp; RAG
-<br><br>
+</p>
 
-<img src="https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/imgs/transformers_logo_name.svg" width="120"/>
-
+<p>
+<img src="https://img.shields.io/badge/BERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 </td>
 
 <td align="center">
 
-### 📊 Data Science
+<h3>📊 Data Science</h3>
 
 <p>
 Pandas &nbsp; NumPy
-<br><br>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 </td>
@@ -111,34 +113,34 @@ Pandas &nbsp; NumPy
 
 <td align="center">
 
-### 🌐 Web & Backend
+<h3>🌐 Web Development</h3>
 
 <p>
-React &nbsp; Flask &nbsp; FastAPI &nbsp; Node.js &nbsp; Express
-<br><br>
+HTML &nbsp; CSS &nbsp; React &nbsp; Node.js &nbsp; Express
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
-
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 </td>
 
 <td align="center">
 
-### 🗄️ Databases
+<h3>🗄️ Databases</h3>
 
 <p>
 PostgreSQL &nbsp; MongoDB &nbsp; MySQL
-<br><br>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 </td>
@@ -149,30 +151,32 @@ PostgreSQL &nbsp; MongoDB &nbsp; MySQL
 
 <td align="center">
 
-### 🛠️ Tools
+<h3>⚙️ Backend & APIs</h3>
 
 <p>
-Git &nbsp; GitHub &nbsp; Jupyter &nbsp; Google Colab
-<br><br>
+Flask &nbsp; REST APIs
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
-
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 </td>
 
 <td align="center">
 
-### ☁️ Cloud & APIs
+<h3>🛠️ Tools</h3>
 
 <p>
-AWS &nbsp; REST APIs
-<br><br>
+Git &nbsp; GitHub &nbsp; Jupyter &nbsp; Google Colab
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 </td>
