@@ -70,7 +70,7 @@ XGBoost
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/keras/D00000" width="45"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/xgboost/006600" width="45"/>
+<img src="[https://cdn.simpleicons.org/xgboost/006600](https://mljar.com/machine-learning/baseline-vs-xgboost)" width="45"/>
 
 </td>
 
