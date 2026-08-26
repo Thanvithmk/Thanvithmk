@@ -121,7 +121,7 @@ Pandas &nbsp; NumPy
 <h3>🌐 Web Development</h3>
 
 <p>
-React &nbsp; Node.js &nbsp; Express
+React &nbsp; Node.js &nbsp; Express &nbsp; Flask
 </p>
 
 <br>
@@ -131,6 +131,8 @@ React &nbsp; Node.js &nbsp; Express
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="45"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/express/FFFFFF" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/flask/FFFFFF" width="45"/>
 
 </td>
 
@@ -158,20 +160,6 @@ PostgreSQL &nbsp; MongoDB &nbsp; MySQL
 
 <td align="center">
 
-<h3>⚙️ Backend & APIs</h3>
-
-<p>
-Flask &nbsp; REST APIs
-</p>
-
-<br>
-
-<img src="https://cdn.simpleicons.org/flask/FFFFFF" width="45"/>
-
-</td>
-
-<td align="center">
-
 <h3>🛠️ Tools</h3>
 
 <p>
@@ -189,6 +177,8 @@ Git &nbsp; GitHub &nbsp; Jupyter &nbsp; Google Colab
 <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="45"/>
 
 </td>
+
+<td></td>
 
 </tr>
 
