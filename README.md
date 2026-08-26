@@ -12,11 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/thanvith-manjunath-k/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/thanvith-manjunath-k/" target="_blank"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" width="30"/> </a> </p>
 
 
 </td>
